@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Overview](README.md)
+* [OVERVIEW](README.md)
+* [CERTIFICATIONS](certifications.md)
