@@ -1,10 +1,6 @@
 ---
 description: Certifications for data engineer
-coverY: 453
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
