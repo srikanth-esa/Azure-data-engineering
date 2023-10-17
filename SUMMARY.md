@@ -17,3 +17,7 @@
   * [Data lakes](basics/key-concepts/data-lakes.md)
   * [Data warehouses](basics/key-concepts/data-warehouses.md)
   * [Apache Spark](basics/key-concepts/apache-spark.md)
+
+***
+
+* [Azure Synapse Analytics](azure-synapse-analytics.md)
