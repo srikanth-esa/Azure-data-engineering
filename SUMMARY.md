@@ -25,3 +25,8 @@
 ## Group 1
 
 * [AZ Resource Group](group-1/az-resource-group.md)
+
+***
+
+* [Azure Resource Naming Conventions](azure-resource-naming-conventions.md)
+* [Azure Tagging Strategy](azure-tagging-strategy.md)
