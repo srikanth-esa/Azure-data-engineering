@@ -21,3 +21,7 @@
 ***
 
 * [Azure Synapse Analytics](azure-synapse-analytics.md)
+
+## Group 1
+
+* [AZ Resource Group](group-1/az-resource-group.md)
