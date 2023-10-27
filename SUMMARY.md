@@ -27,3 +27,4 @@
 ## CODE
 
 * [AZ Resource Group](code/az-resource-group.md)
+* [AZ Virtual Machine](code/az-virtual-machine.md)
