@@ -20,6 +20,7 @@
 
 ***
 
+* [Azure Data Factory](azure-data-factory.md)
 * [Azure Synapse Analytics](azure-synapse-analytics.md)
 * [Azure Resource Naming Conventions](azure-resource-naming-conventions.md)
 * [Azure Tagging Strategy](azure-tagging-strategy.md)
